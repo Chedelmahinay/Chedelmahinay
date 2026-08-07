@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Embedded IoT engineering student at Metropolia UAS. Most of my projects involve microcontrollers, sensors, communication protocols, and connecting software with physical hardware.<br><br>🔭 I'm currently revisiting and improving my previous embedded projects<br>🔧 Interested in embedded systems, IoT, RTOS, robotics, and hardware-software integration<br>💼 Currently looking for an embedded systems / IoT internship in Finland<br>⚡ I like building things where the code actually interacts with the physical world. websites included!<br><br>
+I'm an Embedded IoT engineering student at Metropolia UAS. Most of my projects involve microcontrollers, sensors, communication protocols, and connecting software with physical hardware.<br><br>🔭 I'm currently revisiting and improving my previous embedded projects<br>🔧 Interested in embedded systems, IoT, RTOS, robotics, Cybersecurity, Web-Development, Machine-Learning and hardware-software integration<br>💼 Currently looking for an embedded systems / IoT internship in Finland<br>⚡ I like building things where the code actually interacts with the physical world. websites included!<br><br>
 
 
 ## 🌐 Socials:
