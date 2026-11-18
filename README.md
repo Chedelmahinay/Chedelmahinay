@@ -3,7 +3,7 @@
 <p>I'm an Embedded IoT engineering student<br>   
 My projects involve sensors, MCU, communication protocols and hardware <br> 
 
-Always trying to learn and improve everyday!
+I'm always learning everyday!
 
 ## 🌐 Socials
 
