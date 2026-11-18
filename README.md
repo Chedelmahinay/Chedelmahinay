@@ -3,6 +3,8 @@
 <p>I'm an Embedded IoT engineering student<br>   
 My projects involve sensors, MCU, communication protocols and hardware <br> 
 
+Always trying to learn and improve everyday!
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chedel-mahinay-84857343b)
