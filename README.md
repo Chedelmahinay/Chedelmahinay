@@ -1,7 +1,7 @@
 # 👨‍🚀 Hi, I'm Chedel!
 
-<p>I'm an Embedded IoT engineering student<br>   
-My projects involve sensors, MCU, communication protocols and hardware <br> 
+<p>I'm a Smart IoT Systems engineering student<br>   
+My projects involve sensors, MCU, communication protocols, network and hardware <br> 
 
 ## 🌐 Socials
 
