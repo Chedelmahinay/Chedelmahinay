@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Chedel!
 
-<p>I'm an Embedded IoT engineering student at Metropolia UAS.<br> 
-Most of my projects involve microcontrollers, sensors, communication protocols, 
-and connecting software with physical hardware.<br>
+<p>I'm an Embedded IoT engineering student at Metropolia UAS.<br>   
+My projects involve sensors, MCU, communication protocols and hardware <br>. 
 
 ## 🌐 Socials
 
