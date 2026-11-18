@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chedel!
+# 👨‍🚀 Hi, I'm Chedel!
 
 <p>I'm an Embedded IoT engineering student<br>   
 My projects involve sensors, MCU, communication protocols and hardware <br> 
